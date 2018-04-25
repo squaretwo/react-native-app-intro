@@ -28,6 +28,7 @@
   "homepage": "https://github.com/fuyaode/react-native-app-intro#readme",
   "dependencies": {
     "assign-deep": "^0.4.5",
+    "create-react-class": "^15.6.3",
     "prop-types": "^15.6.1"
   }
 }
