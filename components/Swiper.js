@@ -110,7 +110,6 @@ module.exports = createClass({
   propTypes: {
     horizontal                       : PropTypes.bool,
     children                         : PropTypes.node.isRequired,
-    style                            : View.propTypes.style,
     pagingEnabled                    : PropTypes.bool,
     showsHorizontalScrollIndicator   : PropTypes.bool,
     showsVerticalScrollIndicator     : PropTypes.bool,
